@@ -18,7 +18,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 94vh;
     overflow: hidden;
     
 }
@@ -95,3 +95,9 @@ body{
     cursor: not-allowed;
 }
 
+footer{
+    text-align: center;
+    color: white;
+    padding: 10px 0px 13px 0px;
+    background-color: rgb(39, 37, 37);
+}
